@@ -19,7 +19,7 @@ More than a boilerplate, it is an initial project with the purpose of showing an
 ### 1. Get the source code
 
 ```sh
-$ git clone -b master https://innersource.accenture.com/scm/~arturo.moreno.solis/reactomic.git my-app
+$ git clone -b master https://github.com/thecaptainblake/Reactomic.git
 $ cd my-app
 ```
 
